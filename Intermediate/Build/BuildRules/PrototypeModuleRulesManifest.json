@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\JuegosEngine\\Prototype\\Source\\Prototype\\Prototype.Build.cs",
+		"E:\\JuegosEngine\\Prototype\\Source\\Prototype.Target.cs",
+		"E:\\JuegosEngine\\Prototype\\Source\\PrototypeEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

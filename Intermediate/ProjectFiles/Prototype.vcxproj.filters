@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Prototype.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{06A29892-E563-4918-9D4A-D1AE1584E135}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Prototype.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PrototypeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{66CAC171-B8BF-47AD-8120-1C091B0DD180}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Prototype">
+      <UniqueIdentifier>{BD606A27-5FA7-4F24-A274-2E65D59C6895}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Prototype\NaveEnemiga.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\NaveEnemiga.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\NaveEnemigaCaza.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\NaveEnemigaCaza.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\NaveEnemigaCazaBombardera.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\NaveEnemigaCazaBombardera.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\ProjectileEnemigo.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\ProjectileEnemigo.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\PrototipoNaveEnemiga.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\PrototipoNaveEnemiga.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Prototype\Prototype.Build.cs">
+      <Filter>Source\Prototype</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Prototype\Prototype.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\Prototype.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\PrototypeGameMode.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\PrototypeGameMode.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\PrototypePawn.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\PrototypePawn.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Prototype\PrototypeProjectile.cpp">
+      <Filter>Source\Prototype</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Prototype\PrototypeProjectile.h">
+      <Filter>Source\Prototype</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
